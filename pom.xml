@@ -45,7 +45,7 @@
         <dependency>
             <groupId>com.github.FelixDSantos</groupId>
             <artifactId>CT417Assignment1</artifactId>
-            <version>5f24a00bb1</version>
+            <version>be3f7e78f6</version>
         </dependency>
     </dependencies>
 
