@@ -1,0 +1,12 @@
+language: java
+
+jdk:
+-openjdk8
+
+after_sucess:
+-mvn test
+
+notifications:
+  email:
+    recipients:
+    -f.delossantosiii1@nuigalway.ie
